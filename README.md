@@ -1,2 +1,4 @@
 # build-board
-Project Notes and build board
+Project Notes
+
+Removed part of the description
